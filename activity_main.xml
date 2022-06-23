@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:background="@drawable/img_1"
-    android:padding="16dp"
+    android:padding="@dimen/heading_text_size"
     >
 
 
@@ -17,7 +17,7 @@
         android:text="welcome back!"
         android:textColor="#4527A0"
         android:textStyle="bold"
-        android:textSize="40sp"
+        android:textSize="@dimen/heading_text_size"
         android:layout_centerHorizontal="true"
         android:paddingBottom="200dp"
         />
