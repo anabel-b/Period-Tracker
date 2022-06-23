@@ -26,15 +26,16 @@
         android:id="@+id/period_today_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-       android:layout_below="@+id/home_welcome"
-        android:layout_gravity="bottom"
-        android:text="My Period Start Today!"
-        android:onClick="PeriodStarts"
-        android:layout_marginTop="8dp"
+        android:layout_below="@+id/home_welcome"
         android:layout_centerHorizontal="true"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="8dp"
+
+        android:text="My Period Start Today!"
 
         />
     <Button
+        android:id="@+id/no_period_today_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/period_today_button"
