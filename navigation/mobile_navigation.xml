@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/mainActivity">
+
+
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.example.periodtracker.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+    <activity
+        android:id="@+id/surveyActivity"
+        android:name="com.example.periodtracker.SurveyScreen"
+        android:label="activity_survey"
+        tools:layout="@layout/activity_survey_screen"
+        />
+<activity
+    android:id="@+id/calendarActivity"
+    android:name="com.example.periodtracker.Calendar"
+    android:label="activity_calendar"
+    tools:layout="@layout/activity_calendar"
+    />
+
+
+</navigation>
