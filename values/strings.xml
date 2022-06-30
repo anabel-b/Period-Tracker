@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Period Tracker</string>
+    <string name="title_activity_faq">FAQ</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="SurverySubheading">Have you felt any of the following?</string>
+    <string name="Home_Screen_Text">Welcome Back!</string>
+    <string name="Logging_in_button">Log my Period</string>
+    <string name="No_Period_Home_Button">No Period Today</string>
+    <string name="Light_Period_Text_View">Light Period</string>
+    <string name="regular_period_text_view">Regular Period</string>
+    <string name="Intro_Text_What_Is_Flow">What is your flow like today?</string>
+    <string name="Spotting_Textview">Spotting</string>
+    <string name="heavy_period_textview">Heavy Period</string>
+
+
+    <string name="question_title_placeholder">Question?</string>
+    <string name="answer_txt_placeholder">Answer.</string>
+    <string name="page_title">FAQs</string>
+    <string name="search_doctor">Search Doctor Near You</string>
+
+
+    <string name="search_text_hint">Search for Doctor</string>
+    <string name="search_button_text">Search</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_preferences">Preferences</string>
+    <string name="notify_button_text">Notify Me!</string>
+
+    <string-array name="questions_titles">
+        <item>Why do I have a period?</item>
+        <item>What are menstrual cramps?</item>
+        <item>What is PMS?</item>
+        <item>Is my period too heavy?</item>
+        <item>How long should I have my period for?</item>
+        <item>Is my period irregular?</item>
+        <item>Why is my period late?</item>
+        <item>What is spotting?</item>
+        <item>How can I ease cramps?</item>
+        <item>How do I know if I need to see a doctor?</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>As a female, the lining of your uterus thickens every month to prepare to support a fertilized egg.
+            When the egg is not fertilized, your body no longer needs the thicker lining.
+            The lining begins to break down and is eventually expelled from your vagina, along with some blood, causing your period to begin.</item>
+        <item>Menstrual cramps are throbbing or cramping pains in the lower abdomen just before or during your period.
+            These pains are caused by the contracting of the uterus to help expel its lining.</item>
+        <item>PMS stands for premenstrual syndrome and is a combination of symptoms a woman experiences about a week or two before her period begins. Symptoms can be physical such as headache, swollen or tender breasts, cramping, and bloating. Symptoms can also be emotional or mental such as mood swings, crying spells, food cravings, anxiety and depression.</item>
+        <item>Your period is considered heavy if it lasts longer than 7 days, if your flow soaks through your pads or tampons every few hours, or if you pass blood clots the size of a quarter or larger.</item>
+        <item>A normal period typically lasts anywhere from 3 to 7 days. Anything longer than that is considered a long period.</item>
+        <item>Your periods are considered irregular if they vary more than 20 days in length each month. In other words, if your period happens more or less often than 21 to 35, this is considered an irregular period.</item>
+        <item>Late or missed periods can happen for many different reasons. Some reasons for a late or missed period can be more serious than others. Common causes range from stress, strenuous exercise, and diet or more serious medical conditions such as diabetes, Polycystic Ovarian Syndrome (PCOS), and thyroid problems.</item>
+        <item>Spotting is any vaginal bleeding outside of your menstrual cycle.</item>
+        <item>Cramps can be eased by placing a heating pad on the lower abdomen, engaging in light exercise such as yoga and stretching, practicing mindfulness and meditation, or using over-the-counter pain relieving medication.</item>
+        <item>If you think you might be pregnant, your periods are very heavy, cramps are unbearable and are accompanied with fatigue, shortness of breath and vomiting, or if you experience any random changes to your normal cycle, it is always best to consult with a doctor.</item>
+    </string-array>
+
+
+</resources>

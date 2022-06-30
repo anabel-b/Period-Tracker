@@ -34,10 +34,11 @@
         android:layout_gravity="center_horizontal"
         android:background="@color/white"
         android:contentDescription="SpottingImageButton"
-        android:onClick="Spotting"
         android:padding="10dp"
         android:scaleType="fitXY"
-        android:src="@drawable/img_3" />
+        android:src="@drawable/img_3"
+        />
+
     <TextView
         android:id="@+id/spotting_text_view"
         android:layout_height="wrap_content"

@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
+
     <item
-        android:id="@+id/action_settings"
-        android:orderInCategory="100"
-        android:title="Settings"
-        app:showAsAction="never" />
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_settings"
+        android:orderInCategory="10"
+        android:title="@string/menu_settings"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/preferences"
+        android:title="@string/menu_preferences"
+        android:orderInCategory="30"
+        android:icon="@drawable/ic_preferences"
+        app:showAsAction="ifRoom"/>
 </menu>
+
